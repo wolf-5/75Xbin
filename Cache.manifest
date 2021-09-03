@@ -3,12 +3,11 @@ CACHE MANIFEST
 CACHE: 
 app2usb.bin
 backup.bin
-Cache.manifest
 disableupdates.bin
 dumper.bin
 enableupdates.bin
 exploit.js
-fanThreshold.bin
+fanThreshold.js
 frontend.js
 ftp.bin
 goldhen1v750.bin

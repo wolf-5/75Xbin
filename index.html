@@ -70,8 +70,8 @@
 			window.applicationCache.ondownloading=function(){document.getElementById("progress").innerHTML="Page Caching Started!!";localStorage.is75xCached=false;};
 			window.applicationCache.onprogress=function(a){document.getElementById("myBar").style.width=(Math.round(100*(a.loaded/a.total)))+"%";document.getElementById("myBar").innerHTML=(Math.round(100*(a.loaded/a.total)))+"%";};
 			window.applicationCache.oncached=function(){document.getElementById("progress").innerHTML="Page Cached Successfully!!";localStorage.is75xCached=true;setTimeout(function(){document.getElementById("progress").innerHTML="Turn Off the Internet & Reopen the Page to Run the Exploit!!"; }, 1500);};
-			window.applicationCache.onnoupdate=function(){window.location.replace("wolf75x.html");};
-        	window.applicationCache.onerror=function(){window.location.replace("wolf75x.html");};
+			window.applicationCache.onnoupdate=function(){window.location.replace("index-75x.html");};
+        	window.applicationCache.onerror=function(){window.location.replace("index-75x.html");};
 		</script>
 		<script>
 			var width = 0;

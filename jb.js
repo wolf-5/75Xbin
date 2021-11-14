@@ -142976,7 +142976,7 @@ var _ = malloc_nogc.pop();
 var _ = malloc_nogc.pop();
 if(main_ret == 179 || main_ret == 0){
 	document.getElementById("load").remove();
-    document.getElementById('karo').innerHTML='<tr>'+
+    document.getElementById('755').innerHTML='<tr>'+
 		'<td align="center" colspan="2">'+
 	    '<href id="cnmuhide1"  onmouseover="(document.getElementById(\'spoiler2\') .style.display=\'none\');(document.getElementById(\'spoiler3\') .style.display=\'none\');(document.getElementById(\'spoiler4\') .style.display=\'none\');  (document.getElementById(\'spoiler5\') .style.display=\'none\');(document.getElementById(\'spoiler6\') .style.display=\'none\');(document.getElementById(\'spoiler8\') .style.display=\'none\')(document.getElementById(\'spoiler7\') .style.display=\'none\');"></href>'+
 	    '<href id="cnmuhide2"  onmouseover="if(document.getElementById(\'spoiler2\') .style.display==\'none\'){(document.getElementById(\'spoiler2\') .style.display=\'\');(document.getElementById(\'spoiler3\') .style.display=\'none\');(document.getElementById(\'spoiler4\') .style.display=\'none\');(document.getElementById(\'spoiler5\') .style.display=\'none\');(document.getElementById(\'spoiler6\') .style.display=\'none\');(document.getElementById(\'spoiler7\') .style.display=\'none\')(document.getElementById(\'spoiler8\') .style.display=\'none\');}else{document.getElementById(\'spoiler2\') .style.display=\'none\'}">'+
